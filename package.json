@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "9edde37c-3cf5-4288-80a0-2412979b62fb"
+	},
+	"author": "Tema Jordan",
+	"dependencies": {
+		"@framer/maximedegreve.tinyfaces": "^1.4.0"
+	}
+}
